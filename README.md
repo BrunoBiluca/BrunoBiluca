@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Oiiii, eu sou o Bruno Biluca
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> Oiiii, eu sou o Bruno Biluca
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobiluca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
