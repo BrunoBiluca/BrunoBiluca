@@ -33,7 +33,7 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/BrunoBiluca/BrunoBiluca/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/BrunoBiluca/BrunoBiluca/dist/github-contribution-grid-snake.svg)
 
 
 - 🌱 Atualmente estou aprendendo a criar jogos utilizando Unity
